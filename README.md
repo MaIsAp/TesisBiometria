@@ -1,1 +1,2 @@
 # TesisBiometria
+Scripts para generación de datos de resultados de tesis acerca del modelo matemático de metapoblaciones de levins modificado para agregar efectos dinámicos en destrucción del hábitat o efecto en los parámetros de colonización y extinción a partir de anomalías en las temperaturas.
